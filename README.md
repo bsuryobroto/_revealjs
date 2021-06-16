@@ -1,6 +1,7 @@
-# Rmarkdown rendering revealjs slides
+# Reveal.js slides written in Rmarkdown
+
 Two examples..
   
-https://bsuryobroto.github.io/_revealjs/revealjs_2columns.html
+[2-Column](https://bsuryobroto.github.io/_revealjs/revealjs_2columns.html)  
   
-https://bsuryobroto.github.io/_revealjs/revealjs_background.html
+[IPB logo in background](https://bsuryobroto.github.io/_revealjs/revealjs_background.html)
